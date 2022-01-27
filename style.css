@@ -3,3 +3,7 @@ h1{
     color: orangered;
     text-align: center;
 }
+
+p{
+    font-weight: bold
+}
